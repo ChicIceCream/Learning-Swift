@@ -9,3 +9,4 @@ let label = "The width is "
 let width = 94
 print("Num \(num) plus width \(width) is equal to : \(num + width)")
 let cat = "🐱"; print(cat)
+print(cat + 8)
